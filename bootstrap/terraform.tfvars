@@ -4,3 +4,4 @@ organization_name    = "testingdummy02"
 approvers = {
   user1 = "admin@MngEnvMCAP441149.onmicrosoft.com"
 }
+use_self_hosted_agents = false
